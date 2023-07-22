@@ -8,7 +8,7 @@ public class DockerMavenSampleApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(DockerMavenSampleApplication.class, args);
-		System.out.print("Hi Rayudyu");
+		System.out.print("Hi Rayudyu I am Solo learner Devops JKnajsdhnskajcnsdkjcnsdjkcnsdjkcnsdjkcnsdhcsdhjcsdhcknsdkhcnks");
 	}
 
 }
